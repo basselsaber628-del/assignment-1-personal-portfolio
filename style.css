@@ -1,0 +1,303 @@
+body{
+     margin: auto; 
+    margin: 0 200px;
+    background-color: antiquewhite;
+    }
+
+.title
+{
+   
+     background-color: darkblue;
+    text-align: center;
+ 
+
+
+}
+div.title h1
+{
+     
+    color: aliceblue;
+}
+div.title p
+{
+padding-bottom: 15px;
+color: gray;
+}
+
+.border
+{
+
+    border-radius: 50px;
+    background-color: rgba(255,255,255,0.20);
+border: 1px solid rgba(255,255,255,0.2);
+padding: 10px 25px;
+color: white;
+text-decoration: none;
+margin: 3px ;
+}
+
+.margin
+{
+    margin: 50px 20px;
+    padding: 30px ;
+border-radius: 20px;
+}
+h1
+{
+    color: darkblue;
+    
+}
+#about h1
+{
+    padding-bottom: 20px;
+}
+
+
+
+#Aboutme
+{
+  
+    height: 300px;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+border-radius: 100px;
+float: left;
+margin-right: 40px;
+}
+
+.color
+{
+background-color: aliceblue;
+}
+   span 
+   {
+    color: blue;
+    font-weight: bold;
+   }
+.textline {
+    border-bottom: 2px solid lightblue;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+
+}
+.button
+{
+    background-color:  darkblue;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+margin-top:15px ;
+border: 1px solid;
+
+
+}
+.text {
+    padding-top:20px ;
+}
+
+
+
+.first
+{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    background-color:rgb(191, 215, 230);
+    margin: 10px;
+    border-radius: 20px;
+border: 1px solid gray;
+
+}
+.loon span
+{
+    color: darkblue;
+    float: left;
+    margin: 20px;
+    font-weight: bold;
+    padding-right: 60px;
+
+}
+
+.klam p
+{
+    padding: 50px 30px 30px 20px;
+   
+}
+
+.seconed
+{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    background-color:rgb(191, 215, 230);
+    margin: 10px;
+    border-radius: 20px;
+border: 1px solid gray;
+
+}
+
+.third
+{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    background-color:rgb(191, 215, 230);
+    margin: 10px;
+    border-radius: 20px;
+border: 1px solid gray;
+
+}
+
+.fourth
+{
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    background-color:rgb(191, 215, 230);
+    margin: 10px;
+    border-radius: 20px;
+border: 1px solid gray;
+
+}
+
+.one{
+    background-color: lightblue;
+    height: 25%;
+}
+
+.bold
+{
+    font-weight: bold;
+    color: black;
+    padding-top: 15px;
+}
+
+.one img
+{
+  width: 50px;
+    height: 50px;
+border-radius: 20px;
+float: left;
+border: 1px solid white; 
+padding: 10px;
+margin: 10px 40px 20px 0;
+margin-left: 10px;
+}
+.pad
+{
+    padding-left: 20px;
+}
+
+.one
+{
+    border-left: 5px solid darkblue;
+    border-radius: 10px;
+}
+
+.two
+
+{
+  background-color: lightblue;
+    height: 25%;   
+}
+
+.two img
+{
+     width: 50px;
+    height: 50px;
+border-radius: 20px;
+float: left;
+border: 1px solid white; 
+padding: 10px;
+margin: -40px 40px 20px 0;
+margin-left: 10px;
+}
+
+.two
+{
+      border-left: 5px solid darkblue;
+    border-radius: 10px;
+}
+
+.right
+{
+    padding-left: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#contact
+{
+    background-color: darkblue;
+}
+#contact h1
+{
+    color: white;
+}
+#contact p
+{
+    color: white;
+    padding-bottom: 10px;
+}
+.last
+{
+    background-color: black;
+   
+   
+
+}
+
+.last span
+{
+    color: darkblue;
+
+}
+.last p
+{
+    color: white;
+    text-align: center;
+}
+
+
+.emails{
+
+
+ border-radius: 10px;
+    background-color: rgba(255,255,255,0.20);
+border: 1px solid rgba(255,255,255,0.2);
+padding: 10px 25px;
+color: white;
+text-decoration: none;
+margin: 50px 5px ;
+
+}
